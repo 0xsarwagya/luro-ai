@@ -1,7 +1,7 @@
 "use client"
 
-import  from "../src/components/ui/avatar"
+import Features from "../src/components/marketing/features"
 
 export default function SyntheticV0PageForDeployment() {
-  return < />
+  return <Features />
 }
