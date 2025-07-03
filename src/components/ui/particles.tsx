@@ -274,4 +274,3 @@ export const Particles: React.FC<ParticlesProps> = ({
         </div>
     );
 };
-

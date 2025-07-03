@@ -43,15 +43,15 @@ Check out the tutorial to see how this social media marketing platform was built
 To run Luro locally, follow these steps:
 
 1. Clone the repository:
-    ```bash
+    \`\`\`bash
     git clone https://github.com/Shreyas-29/luro-ai.git
-    ```
+    \`\`\`
 2. Install dependencies:
-    ```bash
+    \`\`\`bash
     pnpm install
-    ```
+    \`\`\`
 3. Set up environment variables in a `.env` file:
-    ```
+    \`\`\`
     # app
     NEXT_PUBLIC_APP_NAME=
     NEXT_PUBLIC_APP_DOMAIN=
@@ -66,12 +66,12 @@ To run Luro locally, follow these steps:
     NEXT_PUBLIC_CLERK_SIGN_UP_URL="/signup"
     NEXT_PUBLIC_CLERK_SIGN_IN_FALLBACK_URL="/"
     NEXT_PUBLIC_CLERK_SIGN_UP_FALLBACK_URL="/"
-    ```
+    \`\`\`
 
 4. Run the development server:
-    ```bash
+    \`\`\`bash
     pnpm run dev
-    ```
+    \`\`\`
 
 ## ☕ Buy Me a Coffee
 If you enjoy using Luro, consider supporting my work!  
